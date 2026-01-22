@@ -6,7 +6,7 @@ FOOD RECIPES
 
 3) Screenshots
 
-![Image of your image](img1.png)
+![Image of your image](snitel.png)
 
 ![Image of your image](img2.png)
 
